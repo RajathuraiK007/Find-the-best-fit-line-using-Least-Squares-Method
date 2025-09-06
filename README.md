@@ -25,6 +25,7 @@ RegisterNumber:
 */
 ```
 
+
 ## Output:
 ![best fit line](sam.png)
 
